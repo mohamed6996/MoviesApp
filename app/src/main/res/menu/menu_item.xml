@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="popular"
+        android:id="@+id/popular"
+        android:showAsAction="never"
+        android:orderInCategory="100"
+        tools:ignore="AppCompatResource"></item>
+
+    <item android:title="top rated"
+        android:id="@+id/top_rated"
+        android:showAsAction="never"
+        android:orderInCategory="100"
+        tools:ignore="AppCompatResource"></item>
+
+    <item android:title="favorits"
+        android:id="@+id/favorits"
+        android:showAsAction="never"
+        android:orderInCategory="100"
+        tools:ignore="AppCompatResource"></item>
+
+
+</menu>

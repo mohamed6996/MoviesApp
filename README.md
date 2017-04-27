@@ -16,4 +16,5 @@
 ## Screen shots
 
 
-![](https://drive.google.com/file/d/0B65qcVDAx_jDN2wyT2FxcnoyRnc/view?usp=sharing)
+![](https://cloud.githubusercontent.com/assets/13904032/25506133/702a9bec-2ba5-11e7-8815-64b59dfd7e96.png)
+

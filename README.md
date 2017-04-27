@@ -1,4 +1,2 @@
-final project 
-popular movies app 
+Movies app 
 
-please provide your own api_key in the Constants.java class 
